@@ -8,6 +8,7 @@ body {
    padding-bottom: 15%;
    font-family: 'Barlow Semi Condensed';
    font-size: 13px;
+   background-color:black;
 }
 
 
@@ -35,7 +36,7 @@ h6{
     width: 100%;
     line-height: 10px;
     margin: 0% 4%  ;
-   background-color: black;
+   
 }
 h3{ 
     z-index: 1;
