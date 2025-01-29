@@ -105,7 +105,7 @@ h3{
     border-width: 2px;
     border-color: rgba(183, 150, 214, 0.904);
    }
-   @media ( width > 900px) {
+   @media ( width < 900px) {
     body{
         margin: 0;
     }
